@@ -4,8 +4,8 @@
 
 ## 👩‍💻 About Me
 
-- 👩‍🎓 I'm a Software Engineer recently graduated with a degree in **Computer Science and AI**  
-- 📊 Currently learning **Data Analytics** and looking for opportunities as a **Data Analyst**  
+- 👩‍🎓 I'm a  Data Analyst recently graduated with a degree in **Computer Science and AI**  
+- 📊 Currently learning **Data Analytics& Power BI** and looking for opportunities as a **Data Analyst& Power BI Developer **  
 - 💡 I'm passionate about exploring data, deriving insights, and creating impactful visualizations  
 - 🧠 Lifelong learner with a curious mindset  
 - 💬 Ask me anything about Data, Python, or Visualization — I'm always happy to chat!  
