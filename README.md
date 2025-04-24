@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Heba Ibrahim
+# 👋 Hi ! I'm Heba Ibrahim
 
 ---
 
