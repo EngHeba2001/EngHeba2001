@@ -19,163 +19,51 @@
 
 ## 🧰 Tech Stack
 
+ 
+
 ### 🧪 Programming & Analysis
 - Python
-- SQL
 - Pandas
 - NumPy
-- SciPy
 - Matplotlib
 - Seaborn
-- Plotly
-- Jupyter Notebook
-- Google Colab
 
-### 🤖 Machine Learning
+### 🤖 Machine Learning & Deep Learning
 - Scikit-learn
-- XGBoost
-- LightGBM
-- Random Forest
-- Decision Trees
-- Logistic Regression
-- Linear Regression
-- SVM
-- KNN
-- Naive Bayes
-- Clustering
-- PCA
-- Feature Engineering
-- Feature Selection
-- Model Evaluation
-- Hyperparameter Tuning
-- Cross-Validation
-- Ensemble Learning
-- Imbalanced Learning
-- SMOTE
-
-### 🧠 Deep Learning
-- PyTorch
 - TensorFlow
-- Keras
-- Neural Networks
+- PyTorch
+- XGBoost
+- Random Forest
 - CNN
-- RNN
-- LSTM
-- GRU
-- Transformers
 - Transfer Learning
-- Fine-Tuning
-- Computer Vision
 
-### 💬 NLP & Generative AI
-- Natural Language Processing (NLP)
-- Hugging Face
+### 🧠 NLP & Generative AI
+- NLP
 - Transformers
 - BERT
+- Hugging Face
 - Sentence Transformers
-- Word Embeddings
-- Text Classification
-- Sentiment Analysis
-- Emotion Analysis
-- Named Entity Recognition (NER)
-- Text Similarity
-- Semantic Search
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-
-### 👁️ Computer Vision
-- OpenCV
-- YOLO
-- YOLOv8
-- Image Classification
-- Object Detection
-- Image Embeddings
-- Image Feature Extraction
-- Vision Transformers (ViT)
-- Multimodal AI
-- Vision-Language Models (VLMs)
-
-### 🔎 Vector Search & RAG
-- ChromaDB
-- Qdrant
-- Vector Databases
-- Embeddings
-- Semantic Retrieval
-- Hybrid Search
-- Metadata Filtering
-- RAG Pipelines
-- Knowledge Retrieval
-- Similarity Search
+- LLMs
+- RAG
 
 ### 📊 Data Analytics & BI
 - Power BI
-- Microsoft Excel
-- Pivot Tables
-- Power Query
-- DAX
+- Excel
 - Data Visualization
 - Exploratory Data Analysis (EDA)
-- KPI Dashboards
-- Statistical Analysis
-- Business Intelligence
 
 ### 🛢️ Databases & Query Languages
 - SQL
 - MySQL
 - PostgreSQL
-- SQLite
-- MongoDB
 - ChromaDB
 - Qdrant
 
 ### 🧱 Data Engineering & Warehousing
 - ETL / ELT
 - Data Cleaning
-- Data Transformation
 - Data Pipelines
-- Data Integration
 - Data Warehousing
-- Dimensional Modeling
-- Star Schema
-- Data Validation
-
-### ☁️ Cloud & MLOps
-- AWS
-- Amazon SageMaker
-- Amazon S3
-- AWS Lambda
-- AWS EC2
-- Docker
-- Git
-- GitHub
-- Model Deployment
-- REST APIs
-- FastAPI
-- ML Pipelines
-- Model Monitoring
-
-### 🛠️ Development Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Google Colab
-- Anaconda
-- Docker
-- FastAPI
-- Streamlit
-
-### 📐 Statistics & Mathematics
-- Probability
-- Descriptive Statistics
-- Inferential Statistics
-- Hypothesis Testing
-- Correlation Analysis
-- Regression Analysis
-- Linear Algebra
-- Calculus
-- Statistical Modeling
 
 ## 📈 GitHub Analytics
 
