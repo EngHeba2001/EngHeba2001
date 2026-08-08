@@ -20,33 +20,162 @@
 ## 🧰 Tech Stack
 
 ### 🧪 Programming & Analysis
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-2C5D86?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+- Python
+- SQL
+- Pandas
+- NumPy
+- SciPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Jupyter Notebook
+- Google Colab
+
+### 🤖 Machine Learning
+- Scikit-learn
+- XGBoost
+- LightGBM
+- Random Forest
+- Decision Trees
+- Logistic Regression
+- Linear Regression
+- SVM
+- KNN
+- Naive Bayes
+- Clustering
+- PCA
+- Feature Engineering
+- Feature Selection
+- Model Evaluation
+- Hyperparameter Tuning
+- Cross-Validation
+- Ensemble Learning
+- Imbalanced Learning
+- SMOTE
+
+### 🧠 Deep Learning
+- PyTorch
+- TensorFlow
+- Keras
+- Neural Networks
+- CNN
+- RNN
+- LSTM
+- GRU
+- Transformers
+- Transfer Learning
+- Fine-Tuning
+- Computer Vision
+
+### 💬 NLP & Generative AI
+- Natural Language Processing (NLP)
+- Hugging Face
+- Transformers
+- BERT
+- Sentence Transformers
+- Word Embeddings
+- Text Classification
+- Sentiment Analysis
+- Emotion Analysis
+- Named Entity Recognition (NER)
+- Text Similarity
+- Semantic Search
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+
+### 👁️ Computer Vision
+- OpenCV
+- YOLO
+- YOLOv8
+- Image Classification
+- Object Detection
+- Image Embeddings
+- Image Feature Extraction
+- Vision Transformers (ViT)
+- Multimodal AI
+- Vision-Language Models (VLMs)
+
+### 🔎 Vector Search & RAG
+- ChromaDB
+- Qdrant
+- Vector Databases
+- Embeddings
+- Semantic Retrieval
+- Hybrid Search
+- Metadata Filtering
+- RAG Pipelines
+- Knowledge Retrieval
+- Similarity Search
 
 ### 📊 Data Analytics & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+- Power BI
+- Microsoft Excel
+- Pivot Tables
+- Power Query
+- DAX
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+- KPI Dashboards
+- Statistical Analysis
+- Business Intelligence
 
 ### 🛢️ Databases & Query Languages
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+- SQL
+- MySQL
+- PostgreSQL
+- SQLite
+- MongoDB
+- ChromaDB
+- Qdrant
 
 ### 🧱 Data Engineering & Warehousing
-![ETL](https://img.shields.io/badge/ETL%20Process-6A1B9A?style=for-the-badge&logo=databricks&logoColor=white)
-![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-4E73DF?style=for-the-badge&logo=azuredevops&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS-1F4E79?style=for-the-badge&logo=microsoft&logoColor=white)
-![SSAS](https://img.shields.io/badge/SSAS-008272?style=for-the-badge&logo=microsoft&logoColor=white)
-![SSRS](https://img.shields.io/badge/SSRS-BA141A?style=for-the-badge&logo=microsoft&logoColor=white)
+- ETL / ELT
+- Data Cleaning
+- Data Transformation
+- Data Pipelines
+- Data Integration
+- Data Warehousing
+- Dimensional Modeling
+- Star Schema
+- Data Validation
 
+### ☁️ Cloud & MLOps
+- AWS
+- Amazon SageMaker
+- Amazon S3
+- AWS Lambda
+- AWS EC2
+- Docker
+- Git
+- GitHub
+- Model Deployment
+- REST APIs
+- FastAPI
+- ML Pipelines
+- Model Monitoring
 
----
+### 🛠️ Development Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Google Colab
+- Anaconda
+- Docker
+- FastAPI
+- Streamlit
+
+### 📐 Statistics & Mathematics
+- Probability
+- Descriptive Statistics
+- Inferential Statistics
+- Hypothesis Testing
+- Correlation Analysis
+- Regression Analysis
+- Linear Algebra
+- Calculus
+- Statistical Modeling
 
 ## 📈 GitHub Analytics
 
